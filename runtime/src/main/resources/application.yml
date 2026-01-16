@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: rates-server
+  jmx:
+    enabled: false
+
+logging:
+  level:
+    root: INFO
+    com.rates.server: INFO
